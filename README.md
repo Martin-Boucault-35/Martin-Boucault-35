@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **martin.boucault@epitech.eu**
 
-- ⚡ Fun fact **I like super smash bros**
+- ⚡ Fun fact **I like Super Smash Bros**
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=martinouaiouaiouai&show_icons=true&locale=en&layout=compact" alt="martinouaiouaiouai" /></p>
