@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Martin</h1>
-<h3 align="center">A french epitech student in 2nd year</h3>
+<h3 align="center">A french epitech student in 3rd  year</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=martinouaiouaiouai&label=Profile%20views&color=0e75b6&style=flat" alt="martinouaiouaiouai" /> </p>
 
